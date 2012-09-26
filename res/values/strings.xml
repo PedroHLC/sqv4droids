@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Bem-Vindo ao Simulador de Questões de Vestibular</string>
+    <string name="app_name">SQV</string>
+    <string name="main_start">Iniciar Testes</string>
+    <string name="main_statistcs">Estatísticas</string>
+    <string name="main_quit">Sair</string>
+    <string name="glb_back">Voltar</string>
+    <string name="glb_go">Ir</string>
+    <string name="qr_back">Voltar</string>
+    <string name="qr_next">Avançar</string>
+    <string name="qr_check">Verif.</string>
+    <string name="qr_finish">Terminar</string>
+    <string name="stt_all">Todos</string>
+    <string name="stt_each">Individual</string>
+    <string name="glb_clean">Limpar</string>
+    <string name="stt_totitle">Ir a tela inicial</string>
+
+</resources>
