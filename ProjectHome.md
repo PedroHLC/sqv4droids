@@ -1,0 +1,1 @@
+Adaptação para android do programa SQV. Veja o original em https://code.google.com/p/sqv
